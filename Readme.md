@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Dashboard_WidgetAccess_MVC/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Dashboard_WidgetAccess_MVC/Controllers/HomeController.vb))
+* [WidgetsCustomization.js](./CS/Dashboard_WidgetAccess_MVC/Scripts/WidgetsCustomization.js) (VB: [WidgetsCustomization.js](./VB/Dashboard_WidgetAccess_MVC/Scripts/WidgetsCustomization.js))
+* [_DashboardViewerPartial.cshtml](./CS/Dashboard_WidgetAccess_MVC/Views/Home/_DashboardViewerPartial.cshtml)
+* [Index.cshtml](./CS/Dashboard_WidgetAccess_MVC/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to access API of underlying widgets in the MVC Viewer
 
 

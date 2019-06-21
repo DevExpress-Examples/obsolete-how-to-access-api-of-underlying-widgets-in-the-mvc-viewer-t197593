@@ -6,6 +6,9 @@
 * [_DashboardViewerPartial.cshtml](./CS/Dashboard_WidgetAccess_MVC/Views/Home/_DashboardViewerPartial.cshtml)
 <!-- default file list end -->
 # How to access API of underlying widgets in the MVC Viewer
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t197593)**
+<!-- run online end -->
 
 
 <strong>Note:</strong> <em>Starting with v17.1, we recommend using the <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16976.aspx">ASPxDashboard control</a> or a corresponding <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16977.aspx">ASP.NET MVC extension</a> to display dashboards within web applications.</em><br><br>This example demonstrates how to customize client widgets used to visualize data within dashboard items at runtime using <a href="http://documentation.devexpress.com/#Dashboard/clsDevExpressDashboardWebScriptsASPxClientDashboardViewertopic">ASPxClientDashboardViewer</a>'s API.<br>The following options are changed

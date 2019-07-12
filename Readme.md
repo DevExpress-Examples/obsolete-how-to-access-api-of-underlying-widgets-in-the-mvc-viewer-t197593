@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to access API of underlying widgets in the MVC Viewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t197593)**
+**[[Run Online]](https://codecentral.devexpress.com/t197593/)**
 <!-- run online end -->
 
 
